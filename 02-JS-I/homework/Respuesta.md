@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables "Es una caja en la cual se le puede ingresar un dato o datos, de los cuales existen distintos tipos de datos int string float boolean".
+	* Strings "Es un tipo de dato de una variable basicamente como dice la plabra son cadenas de textos, por ejemplo puede ser un nombre "LMansii" o una oriacion "Hola, como estas?" de una u otra forma javascript la reconocera como un string (cadena de texto) ".
+	* Funciones (argumentos, `return`) "Una funcion es una forma de repetir codigo y ahorrar tiempo, basicamente podes crear una funcion que reciba paramentros y sumarlos (Ejemplo a + b) y ahorrarte el tiempo de siempre crear una variable que sube a + b a esto que llamamos como a + b lo conocemos como argumentos dentro de una funcion entonces esto seria fuction suma (a,b){ suma = a + b;  return suma;} el return es la unica manera que se escape un dato de la funcion creada, ese dato no puede ser llamado fuera de la funcion".
+	* Declaraciones `if` "Son condicionales basicamente si algo es verdadero hace tal cosa, y si es falso hace tal otra, en este caso solo piden que explique if pero tambien tenemos else que es el sino del argentino, ejemplo: if lautaro > 18 puede votar  else "Lauaro es menor de 18 no puede votar"
+	* Valores booleanos (`true`, `false`) "estos valores se declaran sobre una variable y se puede utilizar para jugar con algoritmos basicamente si algo es verdader bueno hace tal cosa y si algo es falso bueno mira mejor otro dia hacelo hoy el codigo no lo permite".
+
+    
